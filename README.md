@@ -1,0 +1,2 @@
+# SymbolicRegressionBenchmarks
+This project  introduces 140 Symbolic Regression benchmarks  proposed in [GEMP]. They grouped into four clusters based on their overfitting. Each cluster includes benchmarks with OVs are increasing.  It is suggested to researchers use them as the benchmarks to study the generalization ability of Genetic Programming in particular,  and Machine Learning approaches in general, in future researches.
